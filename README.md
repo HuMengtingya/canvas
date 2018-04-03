@@ -1,11 +1,12 @@
 # canvas
 canvas标签画图
 
+准备弄个视频的，结果不会玩。尴尬
 
 
 
 
 
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://player.youku.com/embedXNjcyMDU4Njg0"CameraMaster")
+
 
